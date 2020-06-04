@@ -1,0 +1,19 @@
+name: dsf-geo-presentation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - pip
+  - pandas
+  - geopandas
+  - geoplot
+  - jupyter
+  - google-cloud-storage
+  - gcsfs
+  - jupyterlab
+  - jupyterthemes
+  - pip:
+    - keplergl
+prefix: /Users/tomewing/opt/miniconda3/envs/dsf-geo-presentation
+
