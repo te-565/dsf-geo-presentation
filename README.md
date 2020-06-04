@@ -3,7 +3,9 @@ Code and useful stuff to support my Data Science Festival presentation on 04/04/
 
 ## Manual Installation
 
-The Notebook requires `pandas`, `geopandas`, `geoplot` and `mapclassify` to run.
+The Notebook requires `pandas`, `geopandas`, `geoplot` and `mapclassify` to run (and possibly other stuff too...)
+
+You'll also need to install [NodeJS](https://nodejs.org/en/download/) and set up some notebook widgets if you want to render Kepler in your notebook. Full instructions for KeplerGL [are here](https://github.com/keplergl/kepler.gl/tree/master/bindings/kepler.gl-jupyter)
 
 ## Conda installation
 ```bash
